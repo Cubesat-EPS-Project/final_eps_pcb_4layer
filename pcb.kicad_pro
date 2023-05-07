@@ -326,6 +326,14 @@
     [
       "a8bac665-9e81-4c8d-8e7f-b88478edfeaf",
       ""
+    ],
+    [
+      "df4161cb-a58b-4c44-b758-adc32db84b1a",
+      "MPPTv2"
+    ],
+    [
+      "2e78fae9-b779-4f00-921f-78352e85cefe",
+      "STM32F405board"
     ]
   ],
   "text_variables": {}

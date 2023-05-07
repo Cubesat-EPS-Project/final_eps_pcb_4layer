@@ -7117,6 +7117,11 @@
     )
     (pin "1" (uuid c430551e-cdb6-4c23-84de-f19ef233d424))
     (instances
+      (project "pcb"
+        (path "/a8bac665-9e81-4c8d-8e7f-b88478edfeaf"
+          (reference "#PWR0108") (unit 1)
+        )
+      )
       (project ""
         (path "/f47b3abd-889a-4280-a952-2080b48a2756"
           (reference "#PWR0108") (unit 1)
@@ -7173,6 +7178,11 @@
     )
     (pin "1" (uuid a5ee4a9b-59e9-4b57-af5e-5dcc0ab15b7f))
     (instances
+      (project "pcb"
+        (path "/a8bac665-9e81-4c8d-8e7f-b88478edfeaf"
+          (reference "#PWR0104") (unit 1)
+        )
+      )
       (project ""
         (path "/f47b3abd-889a-4280-a952-2080b48a2756"
           (reference "#PWR0104") (unit 1)
@@ -7229,6 +7239,11 @@
     )
     (pin "1" (uuid 4ae3e53c-d569-4f33-832e-c2bc802ee2d7))
     (instances
+      (project "pcb"
+        (path "/a8bac665-9e81-4c8d-8e7f-b88478edfeaf"
+          (reference "#PWR0107") (unit 1)
+        )
+      )
       (project ""
         (path "/f47b3abd-889a-4280-a952-2080b48a2756"
           (reference "#PWR0107") (unit 1)
@@ -7254,6 +7269,11 @@
     )
     (pin "1" (uuid 60fda2e4-157e-4621-a36c-a007caf67dee))
     (instances
+      (project "pcb"
+        (path "/a8bac665-9e81-4c8d-8e7f-b88478edfeaf"
+          (reference "#PWR02") (unit 1)
+        )
+      )
       (project ""
         (path "/f47b3abd-889a-4280-a952-2080b48a2756"
           (reference "#PWR02") (unit 1)
@@ -7279,6 +7299,11 @@
     )
     (pin "1" (uuid d08e1c15-689d-4f51-8261-829e27531193))
     (instances
+      (project "pcb"
+        (path "/a8bac665-9e81-4c8d-8e7f-b88478edfeaf"
+          (reference "#PWR0109") (unit 1)
+        )
+      )
       (project ""
         (path "/f47b3abd-889a-4280-a952-2080b48a2756"
           (reference "#PWR0109") (unit 1)
@@ -7525,6 +7550,11 @@
     )
     (pin "1" (uuid 4667ec76-c027-4679-912b-5871c5521d24))
     (instances
+      (project "pcb"
+        (path "/a8bac665-9e81-4c8d-8e7f-b88478edfeaf"
+          (reference "#PWR0102") (unit 1)
+        )
+      )
       (project ""
         (path "/f47b3abd-889a-4280-a952-2080b48a2756"
           (reference "#PWR0102") (unit 1)
@@ -7581,6 +7611,11 @@
     )
     (pin "1" (uuid 5878101a-2ade-4f4c-bda1-31b0f251a67c))
     (instances
+      (project "pcb"
+        (path "/a8bac665-9e81-4c8d-8e7f-b88478edfeaf"
+          (reference "#PWR0106") (unit 1)
+        )
+      )
       (project ""
         (path "/f47b3abd-889a-4280-a952-2080b48a2756"
           (reference "#PWR0106") (unit 1)
@@ -7709,6 +7744,11 @@
     )
     (pin "1" (uuid 428ce6ce-27cd-4348-a86a-bb10500127f9))
     (instances
+      (project "pcb"
+        (path "/a8bac665-9e81-4c8d-8e7f-b88478edfeaf"
+          (reference "#PWR0103") (unit 1)
+        )
+      )
       (project ""
         (path "/f47b3abd-889a-4280-a952-2080b48a2756"
           (reference "#PWR0103") (unit 1)
@@ -7893,6 +7933,11 @@
     )
     (pin "1" (uuid 6c8eb26e-b787-470d-84f6-2d8701822388))
     (instances
+      (project "pcb"
+        (path "/a8bac665-9e81-4c8d-8e7f-b88478edfeaf"
+          (reference "#PWR01") (unit 1)
+        )
+      )
       (project ""
         (path "/f47b3abd-889a-4280-a952-2080b48a2756"
           (reference "#PWR01") (unit 1)
@@ -8172,6 +8217,11 @@
     )
     (pin "1" (uuid c1faa6eb-b005-4346-8f81-9ae3121d2883))
     (instances
+      (project "pcb"
+        (path "/a8bac665-9e81-4c8d-8e7f-b88478edfeaf"
+          (reference "#PWR0101") (unit 1)
+        )
+      )
       (project ""
         (path "/f47b3abd-889a-4280-a952-2080b48a2756"
           (reference "#PWR0101") (unit 1)
@@ -8228,6 +8278,11 @@
     )
     (pin "1" (uuid cb2d0ad6-c6f5-4fe0-8d28-8086361c951f))
     (instances
+      (project "pcb"
+        (path "/a8bac665-9e81-4c8d-8e7f-b88478edfeaf"
+          (reference "#PWR0105") (unit 1)
+        )
+      )
       (project ""
         (path "/f47b3abd-889a-4280-a952-2080b48a2756"
           (reference "#PWR0105") (unit 1)
@@ -8266,6 +8321,40 @@
         (path "/f47b3abd-889a-4280-a952-2080b48a2756"
           (reference "J2") (unit 1)
         )
+      )
+    )
+  )
+
+  (sheet (at 76.2 20.32) (size 34.29 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 2e78fae9-b779-4f00-921f-78352e85cefe)
+    (property "Sheetname" "STM32F405board" (at 76.2 19.6084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "STM32F405board.kicad_sch" (at 76.2 41.2246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "pcb"
+        (path "/a8bac665-9e81-4c8d-8e7f-b88478edfeaf" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 31.75 19.05) (size 33.02 21.59) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid df4161cb-a58b-4c44-b758-adc32db84b1a)
+    (property "Sheetname" "MPPTv2" (at 31.75 18.3384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MPPTv2.kicad_sch" (at 31.75 41.2246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "pcb"
+        (path "/a8bac665-9e81-4c8d-8e7f-b88478edfeaf" (page "2"))
       )
     )
   )
