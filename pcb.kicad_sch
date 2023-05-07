@@ -8342,6 +8342,23 @@
     )
   )
 
+  (sheet (at 118.11 20.32) (size 38.1 21.59) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 8a09cf8d-742a-4ffa-82f9-9b5f6951638a)
+    (property "Sheetname" "ProtectionCircuit" (at 118.11 19.6084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ProtectionCircuit.kicad_sch" (at 118.11 42.4946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "pcb"
+        (path "/a8bac665-9e81-4c8d-8e7f-b88478edfeaf" (page "4"))
+      )
+    )
+  )
+
   (sheet (at 31.75 19.05) (size 33.02 21.59) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))

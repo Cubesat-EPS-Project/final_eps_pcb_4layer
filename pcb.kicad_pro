@@ -334,6 +334,10 @@
     [
       "2e78fae9-b779-4f00-921f-78352e85cefe",
       "STM32F405board"
+    ],
+    [
+      "8a09cf8d-742a-4ffa-82f9-9b5f6951638a",
+      "ProtectionCircuit"
     ]
   ],
   "text_variables": {}
