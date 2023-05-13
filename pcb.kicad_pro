@@ -338,6 +338,14 @@
     [
       "8a09cf8d-742a-4ffa-82f9-9b5f6951638a",
       "ProtectionCircuit"
+    ],
+    [
+      "3ca5debc-f90b-460c-a141-5895a3bf5854",
+      "Regulation Module"
+    ],
+    [
+      "0e559922-6118-4152-9aaf-3cc143cf2a31",
+      "Battery Charger"
     ]
   ],
   "text_variables": {}
