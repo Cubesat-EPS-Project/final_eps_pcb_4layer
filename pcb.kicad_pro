@@ -346,6 +346,10 @@
     [
       "0e559922-6118-4152-9aaf-3cc143cf2a31",
       "Battery Charger"
+    ],
+    [
+      "b9b0dd61-fe35-407e-aefb-0d26a1fefced",
+      "MeasurementCircuit"
     ]
   ],
   "text_variables": {}
